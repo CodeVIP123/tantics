@@ -5,11 +5,8 @@ import subprocess
 from pyfiglet import figlet_format
 import sys
 
-"""
-Copyright © 2024, Write-right reserved
-Malware Organisation 
-Written by - C.E.O
-C.E.O - Sarvaang Srivastava 
+""" 
+Written by: Sarvaang Srivastava
 """
 
 
