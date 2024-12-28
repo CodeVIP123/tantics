@@ -18,12 +18,12 @@ For linux type:
 
 Start the server by typing (for windows):
 
-	 cd server
+	 cd tantics\server
 	 python server.py
 
 For linux type:
 
-	 cd server
+	 cd tantics/server
 	 python3 server.py
 	
 Run the client file (client.py) and it will give you access and encrypt the files in the cwd (current working directory)
