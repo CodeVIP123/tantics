@@ -6,7 +6,7 @@ from pyfiglet import figlet_format
 import sys
 
 """ 
-Written by: CodeVIP123 (Mr. Y)
+Written by: DarkGamerz
 Copyright © 2024
 """
 
