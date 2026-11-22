@@ -2,7 +2,7 @@ import socket
 from pyfiglet import figlet_format
 
 """
-Written by: CodeVIP123 (Mr. Y)
+Written by: DarkGamerz
 Copyright © 2024
 """
 
